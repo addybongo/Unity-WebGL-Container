@@ -1,0 +1,24 @@
+{
+  "name": "Unity-WebGL-Container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addybongo/Unity-WebGL-Container.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addybongo/Unity-WebGL-Container/issues"
+  },
+  "homepage": "https://github.com/addybongo/Unity-WebGL-Container#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
